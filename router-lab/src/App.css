@@ -1,0 +1,22 @@
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 40px;
+    text-align: center;
+}
+.container-2{
+    display: flex;
+    gap: 40px;
+}
+.home,.contact,.about,.help{
+    text-align: center;
+    font-size: medium;
+    color: black;
+}
+#kalvium{
+color: white;
+}
+#home,#contact,#about,#help{
+color: white;
+}
